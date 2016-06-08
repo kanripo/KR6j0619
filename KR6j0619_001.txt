@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:26.880128
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:39
 #+TITLE: 佛說栴檀香身陀羅尼經
 #+PROPERTY: CBETA_ID T21n1387
 #+PROPERTY: ID KR6j0619
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1387
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0619_T_000-0906a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0619_T_001-0906a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1387¶
-
- 佛說栴檀香身陀羅尼經¶
+No. 1387¶
+佛說栴檀香身陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 爾時世尊告阿難言。有陀羅尼名栴檀香身。¶
 是陀羅尼有大威力。能與眾生廣大福聚。若¶
